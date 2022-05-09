@@ -2,3 +2,4 @@ SAMPLE TEXT
 Aqui é um teste de atualização.
 LETS ROCK
 Essa linha aqui vai ser definitiva.
+Será adicionado aqui uma nova feature.
